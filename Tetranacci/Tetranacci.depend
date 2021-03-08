@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610920812 source:d:\mati\moje programy\tetranacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
